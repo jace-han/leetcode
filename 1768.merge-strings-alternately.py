@@ -24,5 +24,6 @@ class Solution(object):
 
         merged += longer[i:]
         return merged
+        
 # @lc code=end
 
