@@ -1,1 +1,5 @@
-This repository contains my solutions to Leetcode problems. Currently, I am working on Leetcode 75 Study Plan.
+# Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/jace-han/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+
